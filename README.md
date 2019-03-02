@@ -1,4 +1,4 @@
-#Concept
+# Concept
 Mighty Flut is the app that will change vocals of songs to flute awesome covers!
 This app is created for few reasons.
  - To learn how to build neural network
